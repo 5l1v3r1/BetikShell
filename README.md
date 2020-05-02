@@ -1,5 +1,5 @@
 # KekikShell
-<p>Bir <a style="color:green" href="https://t.me/BetikSonu" target="_blank">@BetikSonu</a> projesi .<br>
+<p>Bir <a style="color:green" href="https://t.me/BetikSonu" target="_blank">@BetikSonu</a> projesi .<br><br>
 KekikShell @keyiflerolsun'un kendisi için toparladığı araçları barındırmaktadır.
 Gerek kodları incelemek, gerek ise aktif kullanımda faydalı bulunan araçların tek bir yere toplarlanılması amaçlanmıştır.
 ![KekikShell](https://github.com/KekikAkademi/KekikShell/raw/master/preview.jpg)
